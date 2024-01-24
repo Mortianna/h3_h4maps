@@ -1,0 +1,1 @@
+This repository contains standard .h3m maps from *Heroes 3 Complete Edition*, ported to *Heroes 4*
